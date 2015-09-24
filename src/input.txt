@@ -1,0 +1,10 @@
+add stuff
+display
+add lol
+add roflcopter
+display
+add yolo
+display
+delete 3
+display
+exit

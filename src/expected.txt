@@ -1,0 +1,17 @@
+Welcome to TextBuddy. mytextfile.txt is ready for use
+command: 
+1. stuff
+command:
+1. stuff
+2. lol
+3. roflcopter
+command:
+1. stuff
+2. lol
+3. roflcopter
+4. yolo
+command:
+1. stuff
+2. lol
+3. yolo
+command:
